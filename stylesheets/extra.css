@@ -1,0 +1,219 @@
+/* Custom CSS for SQWARE Documentation */
+
+/* Override Material for MkDocs default styles */
+
+/* Theme colors */
+:root {
+  /* Primary theme colors */
+  --md-primary-fg-color: #3b82f6;
+  --md-primary-fg-color--light: #60a5fa;
+  --md-primary-fg-color--dark: #2563eb;
+  --md-primary-bg-color: #f8fafc;
+  --md-primary-bg-color--light: #ffffff;
+  
+  /* Accent colors */
+  --md-accent-fg-color: #3b82f6;
+  --md-accent-fg-color--transparent: rgba(59, 130, 246, 0.1);
+  --md-accent-bg-color: #f8fafc;
+  --md-accent-bg-color--light: #ffffff;
+
+  /* Text and background colors for dark mode */
+  --md-default-fg-color: #e2e8f0;
+  --md-default-fg-color--light: #94a3b8;
+  --md-default-fg-color--lighter: #64748b;
+  --md-default-fg-color--lightest: #475569;
+  
+  --md-default-bg-color: #0b0b0b;
+  --md-default-bg-color--light: #141414;
+  --md-default-bg-color--lighter: #1a1a1a;
+  --md-default-bg-color--lightest: #2a2a2a;
+
+  /* Code block colors */
+  --md-code-fg-color: #e2e8f0;
+  --md-code-bg-color: #1a1a1a;
+  
+  /* Typeset colors */
+  --md-typeset-color: #e2e8f0;
+  --md-typeset-a-color: #3b82f6;
+
+  /* Footer colors */
+  --md-footer-bg-color: #0b0b0b;
+  --md-footer-bg-color--dark: #141414;
+  --md-footer-fg-color: #94a3b8;
+  --md-footer-fg-color--light: #64748b;
+  --md-footer-fg-color--lighter: #475569;
+}
+
+/* Typography */
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4 {
+  color: #f8fafc;
+  font-weight: 700;
+}
+
+.md-typeset h1 {
+  margin-bottom: 1.5rem;
+}
+
+.md-typeset p {
+  color: #e2e8f0;
+}
+
+/* Cards Grid */
+.md-typeset .grid {
+  grid-gap: 1rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+  margin: 1rem 0;
+}
+
+.md-typeset .grid.cards > ul,
+.md-typeset .grid.cards > ol,
+.md-typeset .grid > .card {
+  border: 1px solid #2a2a2a;
+  border-radius: 0.25rem;
+  display: block;
+  margin: 0;
+  padding: 1rem;
+  transition: border-color 250ms, box-shadow 250ms;
+  background-color: #141414;
+}
+
+.md-typeset .grid.cards > ul:hover,
+.md-typeset .grid.cards > ol:hover,
+.md-typeset .grid > .card:hover {
+  border-color: #3b82f6;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  transform: translateY(-2px);
+}
+
+/* Material Design Icons */
+.md-typeset .twemoji {
+  color: #3b82f6;
+  vertical-align: middle;
+}
+
+.md-typeset .twemoji svg {
+  height: 1.2em;
+  width: 1.2em;
+  margin-bottom: -0.2em;
+}
+
+.md-typeset .grid.cards .twemoji {
+  font-size: 1.5em;
+  margin-right: 0.3em;
+  display: inline-block;
+}
+
+/* Buttons */
+.md-typeset .md-button {
+  border-radius: 4px;
+  padding: 0.5em 1em;
+  font-weight: 500;
+  transition: background-color 0.3s, color 0.3s;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.md-typeset .md-button:not(.md-button--primary) {
+  background-color: #2a2a2a;
+  color: #94a3b8;
+  border-color: transparent;
+}
+
+.md-typeset .md-button:not(.md-button--primary):hover {
+  background-color: #4b5563;
+  color: #e2e8f0;
+}
+
+.md-typeset .md-button--primary {
+  background-color: #3b82f6;
+  color: #f8fafc;
+  border-color: transparent;
+}
+
+.md-typeset .md-button--primary:hover {
+  background-color: #2563eb;
+}
+
+/* Unicode Emoji in Buttons */
+.md-button:before {
+  margin-right: 0.4em;
+  font-size: 1.1em;
+}
+
+/* Arrow symbol in buttons */
+.md-button:has(a[href^="#"]):after,
+a.md-button:after {
+  content: "";
+  margin-left: 0.3em;
+}
+
+/* Icons */
+.md-typeset .icon {
+  color: #3b82f6;
+  font-size: 1.5rem;
+  vertical-align: middle;
+}
+
+/* Admonitions */
+.md-typeset .admonition.tip,
+.md-typeset details.tip {
+  border-color: #3b82f6;
+}
+
+.md-typeset .admonition.tip > .admonition-title,
+.md-typeset details.tip > .admonition-title,
+.md-typeset details.tip > summary {
+  background-color: rgba(59, 130, 246, 0.1);
+}
+
+.md-typeset .admonition.tip > .admonition-title::before,
+.md-typeset details.tip > .admonition-title::before,
+.md-typeset details.tip > summary::before {
+  background-color: #3b82f6;
+}
+
+/* Footer */
+.md-footer {
+  background-color: #0b0b0b;
+}
+
+.md-footer-meta {
+  background-color: #141414;
+}
+
+/* Navigation */
+.md-nav__item .md-nav__link--active {
+  color: #3b82f6;
+}
+
+.md-nav__item .md-nav__link:hover {
+  color: #60a5fa;
+}
+
+/* Custom container styles */
+.center-container {
+  text-align: center;
+  margin-bottom: 3em;
+}
+
+.community-container {
+  text-align: center;
+  margin: 2.5em 0;
+  padding: 2em;
+  background-color: #141414;
+  border-radius: 8px;
+}
+
+.footer-container {
+  text-align: center;
+  font-size: 0.9em;
+  margin-top: 3em;
+  padding-top: 2em;
+  border-top: 1px solid #2a2a2a;
+  color: #64748b;
+} 

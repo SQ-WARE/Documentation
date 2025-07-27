@@ -1,0 +1,69 @@
+site_name: SQWARE | Documentation
+site_url: https://docs.sqware.pro
+site_description: Building the future of community-owned gaming - where players become stakeholders with real influence over the games and communities they love.
+
+plugins:
+  - search
+
+theme:
+  name: material
+  custom_dir: overrides
+  logo: images/sqwarelogo.png
+  favicon: images/sqwarelogo.png
+  language: en
+  
+  font: 
+    text: Inter
+    code: IBM Plex Mono
+
+  features:
+    - content.code.annotate
+    - content.code.copy
+    - content.tabs.link
+    - navigation.indexes
+    - navigation.sections
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+
+  palette:
+    scheme: slate
+    primary: custom
+    accent: blue
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - admonition
+  - pymdownx.details
+
+extra_css:
+  - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/extra.js
+
+nav:
+  - Home: index.md
+  - 'Community Platform':
+    - 'Current Platform': games/index.md
+    - 'Minecraft Servers': 
+      - 'Server Overview': servers/overview.md
+      - 'Survival': servers/survival.md
+      - 'Classic Survival': servers/classic-survival.md
+      - 'Skyblock': servers/skyblock.md
+      - 'KitPvP': servers/kitpvp.md
+      - 'Community Rules': servers/rules.md
+  - 'Recognition System': rewards.md
+  - 'Community Store': store.md
+  - 'Partnership Program': partners.md
+  - 'Bug Bounty Program': bugs.md
+  - 'Archive': archive/index.md

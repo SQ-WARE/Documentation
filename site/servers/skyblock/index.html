@@ -1,0 +1,1453 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Building the future of community-owned gaming - where players become stakeholders with real influence over the games and communities they love.">
+      
+      
+      
+        <link rel="canonical" href="https://docs.sqware.pro/servers/skyblock/">
+      
+      
+        <link rel="prev" href="../classic-survival/">
+      
+      
+        <link rel="next" href="../kitpvp/">
+      
+      
+      <link rel="icon" href="../../images/sqwarelogo.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.16">
+    
+    
+      
+        <title>Skyblock - SQWARE | Documentation</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.7e37652d.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter:300,300i,400,400i,700,700i%7CIBM+Plex+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Inter";--md-code-font:"IBM Plex Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="slate" data-md-color-primary="custom" data-md-color-accent="blue">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#skyblock-server-wiki" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="SQWARE | Documentation" class="md-header__button md-logo" aria-label="SQWARE | Documentation" data-md-component="logo">
+      
+  <img src="../../images/sqwarelogo.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            SQWARE | Documentation
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Skyblock
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+    
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+          <a href="javascript:void(0)" class="md-search__icon md-icon" title="Share" aria-label="Share" data-clipboard data-clipboard-text="" data-md-component="search-share" tabindex="-1">
+            
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9a3 3 0 0 0-3 3 3 3 0 0 0 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.15c-.05.21-.08.43-.08.66 0 1.61 1.31 2.91 2.92 2.91s2.92-1.3 2.92-2.91A2.92 2.92 0 0 0 18 16.08"/></svg>
+          </a>
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="SQWARE | Documentation" class="md-nav__button md-logo" aria-label="SQWARE | Documentation" data-md-component="logo">
+      
+  <img src="../../images/sqwarelogo.png" alt="logo">
+
+    </a>
+    SQWARE | Documentation
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Home
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" checked>
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../games/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    Community Platform
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_2" id="__nav_2_label" tabindex="">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Community Platform
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_2" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_2_2" id="__nav_2_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Minecraft Servers
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_2_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2_2">
+            <span class="md-nav__icon md-icon"></span>
+            Minecraft Servers
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../overview/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Server Overview
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../survival/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Survival
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../classic-survival/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Classic Survival
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    Skyblock
+    
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    Skyblock
+    
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#getting-started" class="md-nav__link">
+    <span class="md-ellipsis">
+      Getting Started
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Getting Started">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#creating-your-island" class="md-nav__link">
+    <span class="md-ellipsis">
+      Creating Your Island
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#essential-commands" class="md-nav__link">
+    <span class="md-ellipsis">
+      Essential Commands
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#core-gameplay" class="md-nav__link">
+    <span class="md-ellipsis">
+      Core Gameplay
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Core Gameplay">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#resource-management" class="md-nav__link">
+    <span class="md-ellipsis">
+      Resource Management
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#economy-and-trading" class="md-nav__link">
+    <span class="md-ellipsis">
+      Economy and Trading
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#challenges-and-quests" class="md-nav__link">
+    <span class="md-ellipsis">
+      Challenges and Quests
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#island-management" class="md-nav__link">
+    <span class="md-ellipsis">
+      Island Management
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Island Management">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#island-upgrades" class="md-nav__link">
+    <span class="md-ellipsis">
+      Island Upgrades
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#team-and-co-op" class="md-nav__link">
+    <span class="md-ellipsis">
+      Team and Co-op
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#customization" class="md-nav__link">
+    <span class="md-ellipsis">
+      Customization
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#biomes" class="md-nav__link">
+    <span class="md-ellipsis">
+      Biomes
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#advanced-features" class="md-nav__link">
+    <span class="md-ellipsis">
+      Advanced Features
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Advanced Features">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#minions" class="md-nav__link">
+    <span class="md-ellipsis">
+      Minions
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#spawners" class="md-nav__link">
+    <span class="md-ellipsis">
+      Spawners+
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#fishing" class="md-nav__link">
+    <span class="md-ellipsis">
+      Fishing+
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#advanced-hoppers" class="md-nav__link">
+    <span class="md-ellipsis">
+      Advanced Hoppers
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#custom-enchantments" class="md-nav__link">
+    <span class="md-ellipsis">
+      Custom Enchantments
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#mining-disabled" class="md-nav__link">
+    <span class="md-ellipsis">
+      Mining+ (Disabled)
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#rewards-and-currencies" class="md-nav__link">
+    <span class="md-ellipsis">
+      Rewards and Currencies
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Rewards and Currencies">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#points-rewards-program" class="md-nav__link">
+    <span class="md-ellipsis">
+      Points Rewards Program
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#other-rewards" class="md-nav__link">
+    <span class="md-ellipsis">
+      Other Rewards
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#faq" class="md-nav__link">
+    <span class="md-ellipsis">
+      FAQ
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#related-pages" class="md-nav__link">
+    <span class="md-ellipsis">
+      Related Pages
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../kitpvp/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    KitPvP
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../rules/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Community Rules
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rewards/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Recognition System
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../store/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Community Store
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../partners/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Partnership Program
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../bugs/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Bug Bounty Program
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../archive/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Archive
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#getting-started" class="md-nav__link">
+    <span class="md-ellipsis">
+      Getting Started
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Getting Started">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#creating-your-island" class="md-nav__link">
+    <span class="md-ellipsis">
+      Creating Your Island
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#essential-commands" class="md-nav__link">
+    <span class="md-ellipsis">
+      Essential Commands
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#core-gameplay" class="md-nav__link">
+    <span class="md-ellipsis">
+      Core Gameplay
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Core Gameplay">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#resource-management" class="md-nav__link">
+    <span class="md-ellipsis">
+      Resource Management
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#economy-and-trading" class="md-nav__link">
+    <span class="md-ellipsis">
+      Economy and Trading
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#challenges-and-quests" class="md-nav__link">
+    <span class="md-ellipsis">
+      Challenges and Quests
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#island-management" class="md-nav__link">
+    <span class="md-ellipsis">
+      Island Management
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Island Management">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#island-upgrades" class="md-nav__link">
+    <span class="md-ellipsis">
+      Island Upgrades
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#team-and-co-op" class="md-nav__link">
+    <span class="md-ellipsis">
+      Team and Co-op
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#customization" class="md-nav__link">
+    <span class="md-ellipsis">
+      Customization
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#biomes" class="md-nav__link">
+    <span class="md-ellipsis">
+      Biomes
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#advanced-features" class="md-nav__link">
+    <span class="md-ellipsis">
+      Advanced Features
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Advanced Features">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#minions" class="md-nav__link">
+    <span class="md-ellipsis">
+      Minions
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#spawners" class="md-nav__link">
+    <span class="md-ellipsis">
+      Spawners+
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#fishing" class="md-nav__link">
+    <span class="md-ellipsis">
+      Fishing+
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#advanced-hoppers" class="md-nav__link">
+    <span class="md-ellipsis">
+      Advanced Hoppers
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#custom-enchantments" class="md-nav__link">
+    <span class="md-ellipsis">
+      Custom Enchantments
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#mining-disabled" class="md-nav__link">
+    <span class="md-ellipsis">
+      Mining+ (Disabled)
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#rewards-and-currencies" class="md-nav__link">
+    <span class="md-ellipsis">
+      Rewards and Currencies
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Rewards and Currencies">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#points-rewards-program" class="md-nav__link">
+    <span class="md-ellipsis">
+      Points Rewards Program
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#other-rewards" class="md-nav__link">
+    <span class="md-ellipsis">
+      Other Rewards
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#faq" class="md-nav__link">
+    <span class="md-ellipsis">
+      FAQ
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#related-pages" class="md-nav__link">
+    <span class="md-ellipsis">
+      Related Pages
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<h1 id="skyblock-server-wiki">Skyblock Server Wiki</h1>
+<p>Welcome to the <strong>Skyblock Server Wiki</strong>! This guide provides essential information and strategies to help you thrive in your floating island adventure.</p>
+<hr />
+<h2 id="getting-started">Getting Started</h2>
+<h3 id="creating-your-island">Creating Your Island</h3>
+<p>Start your journey with the <code>/island</code> command to create your personal island, which includes:</p>
+<ul>
+<li><strong>A tree</strong> for gathering wood</li>
+<li><strong>A chest</strong> with starting items</li>
+<li><strong>A lava bucket</strong> and <strong>water bucket</strong> for a cobblestone generator</li>
+</ul>
+<p>Use these limited resources wisely to expand and progress.</p>
+<h3 id="essential-commands">Essential Commands</h3>
+<ul>
+<li><code>/island</code>: Opens the island management menu</li>
+<li><code>/spawn</code>: Teleports to the server hub</li>
+<li><code>/shop</code>: Accesses the in-game shop for buying and selling</li>
+<li><code>/store</code>: Opens the webstore (<code>shop.sqware.pro</code>) for ranks and cosmetics</li>
+<li><code>/vote</code>: Lists voting sites for rewards</li>
+<li><code>/rewards</code>: Claims daily and other rewards</li>
+<li><code>/friends</code>: Manages your friends list and cross-server chat</li>
+</ul>
+<hr />
+<h2 id="core-gameplay">Core Gameplay</h2>
+<h3 id="resource-management">Resource Management</h3>
+<p>Efficient resource management is key:</p>
+<ul>
+<li><strong>Cobblestone Generator</strong>: Combine lava and water to create a renewable cobblestone source</li>
+<li><strong>Farming</strong>: Grow crops like wheat, carrots, and sugarcane for food and income</li>
+<li><strong>Tree Planting</strong>: Replant saplings for a steady wood supply</li>
+</ul>
+<p>Complete challenges via <code>/challenges</code> to earn resources and currency.</p>
+<h3 id="economy-and-trading">Economy and Trading</h3>
+<p>Engage in the server’s economy:</p>
+<ul>
+<li><strong>Server Shop</strong> (<code>/shop</code>): Buy and sell items, including Sell Wands for quick chest sales</li>
+<li><strong>Auction House</strong> (<code>/ah</code>): Trade items with players for money</li>
+<li><strong>Sell All</strong> (<code>/sellall</code>): Sell specific inventory items instantly</li>
+<li><strong>Player Shops</strong>: Create chest shops with <code>/chestshop help</code></li>
+<li><strong>Direct Trading</strong>: Exchange items or currency with players</li>
+<li><strong>Island Bank</strong> (<code>/is bank</code>): Manage shared team funds</li>
+</ul>
+<p>Visit the webstore (<code>shop.sqware.pro</code>) for ranks with economic and cosmetic perks.</p>
+<h3 id="challenges-and-quests">Challenges and Quests</h3>
+<p>Earn rewards through:</p>
+<ul>
+<li><strong>Challenges</strong> (<code>/challenges</code>): Complete tasks like farming, mining, or expanding your island</li>
+<li><strong>Quests</strong> (<code>/quests</code>): Explore over 6,000 unique quests across 36 categories</li>
+</ul>
+<hr />
+<h2 id="island-management">Island Management</h2>
+<p>Manage your island with these commands:</p>
+<ul>
+<li><code>/is settings</code>: Configure island settings</li>
+<li><code>/is permissions</code>: Set member permissions</li>
+<li><code>/is level</code>: Check island progress</li>
+<li><code>/is top</code>: View island leaderboards</li>
+</ul>
+<h3 id="island-upgrades">Island Upgrades</h3>
+<p>Enhance your island via <code>/is upgrades</code> or the <code>/island</code> menu:</p>
+<ul>
+<li><strong>Island Size</strong>: Expand building space</li>
+<li><strong>Team Size</strong>: Increase member capacity</li>
+<li><strong>Biome</strong>: Change biome for gameplay and aesthetic benefits</li>
+<li><strong>Generators</strong>: Improve block variety (e.g., ores)</li>
+<li><strong>Crop Growth</strong>: Boost crop growth speed</li>
+<li><strong>Spawner Boost</strong>: Increase mob spawn rates</li>
+<li><strong>Premium Drops</strong>: Enhance mob drop quality</li>
+<li><strong>Hopper Limit</strong>: Raise the number of placeable hoppers</li>
+</ul>
+<h3 id="team-and-co-op">Team and Co-op</h3>
+<p>Invite players with <code>/is coop &lt;playername&gt;</code> or <code>/is invite &lt;playername&gt;</code> to collaborate on resources and projects.</p>
+<h3 id="customization">Customization</h3>
+<ul>
+<li><strong>Settings &amp; Permissions</strong>: Control access with <code>/is settings</code> and <code>/is permissions</code></li>
+<li><strong>Border Toggle</strong> (<code>/is toggle border</code>): Show or hide island borders</li>
+<li><strong>Warps</strong>: Create public warps with <code>/is setwarp &lt;name&gt;</code> and visit others with <code>/is warp &lt;playername/warpname&gt;</code></li>
+</ul>
+<h3 id="biomes">Biomes</h3>
+<p>Choose a biome via the <code>/island</code> menu for unique benefits:</p>
+<ul>
+<li><strong>Desert</strong>: Fast sugarcane growth, no ice/snow</li>
+<li><strong>Plains</strong>: Balanced for farming and animals</li>
+<li><strong>Taiga</strong>: Cold, snowy, supports spruce trees</li>
+<li><strong>Nether</strong>: Harsh, ideal for mob spawning, no water</li>
+<li><strong>Swamp</strong>: Lush, enhances crop growth</li>
+<li><strong>Badlands</strong>: Rich in clay/terracotta, slower vegetation</li>
+<li><strong>Snow</strong>: Provides snowballs and ice</li>
+<li><strong>Jungle</strong>: Rapid tree growth for wood</li>
+</ul>
+<hr />
+<h2 id="advanced-features">Advanced Features</h2>
+<h3 id="minions">Minions</h3>
+<p><strong>Minions</strong> automate tasks like mining or farming. Access them via <code>/minions store</code>.</p>
+<ul>
+<li><strong>Mechanics</strong>:</li>
+<li>Place/pick up minions (Shift + Left Click)</li>
+<li>Feed minions with items or PlayerPoints</li>
+<li>Link chests for item storage</li>
+<li>Upgrade via control panel for efficiency</li>
+<li>Limited by rank/permissions</li>
+<li><strong>Types</strong>:</li>
+<li>Miner: Mines blocks</li>
+<li>Slayer: Kills mobs</li>
+<li>Collector: Gathers items</li>
+<li>Lumberjack: Chops trees</li>
+<li>Farmer: Harvests/replants crops</li>
+<li>Fisher: Catches fish</li>
+<li>Feeder: Feeds other minions</li>
+<li>Seller: Sells chest items</li>
+</ul>
+<p>Check <code>/minions store</code> for details and upgrades.</p>
+<h3 id="spawners">Spawners+</h3>
+<p>Customize mob spawners via right-click GUI:</p>
+<ul>
+<li><strong>Obtaining</strong>: Buy from shop, upgrades, or rare loot</li>
+<li><strong>Upgrades</strong> (cost money/XP):</li>
+<li><strong>Activation Range</strong>: Extend spawner range</li>
+<li><strong>Spawn Count</strong>: Increase mobs per cycle</li>
+<li><strong>Spawn Delay</strong>: Reduce cycle time</li>
+<li><strong>Upgrade Tree</strong>: Evolve spawners for custom mobs and drops</li>
+<li><strong>Notes</strong>:</li>
+<li>Mobs may auto-clear for performance</li>
+<li>Looting enchantment enhances drops</li>
+</ul>
+<h3 id="fishing">Fishing+</h3>
+<p>Access via <code>/fish menu</code>:</p>
+<ul>
+<li><strong>Mechanics</strong>:</li>
+<li>Catch tiered fish (Bronze to Mythical)</li>
+<li>Earn Fishing XP and Entropy for upgrades</li>
+<li>Track catches in Fish Codex</li>
+<li>Store catches in Fish Bag</li>
+<li><strong>Features</strong>:</li>
+<li><strong>Deliveries</strong>: Complete fish tasks for rewards</li>
+<li><strong>Totems</strong>: Passive fishing bonuses</li>
+<li><strong>Rod Augments</strong>: Enhance rods</li>
+<li><strong>Gutting</strong>: Gain extra loot/Entropy</li>
+<li><strong>Scales</strong>: Risk-based price boost</li>
+<li><strong>Bait</strong>: Target specific fish</li>
+<li><strong>Shop</strong>: Sell fish, buy items</li>
+<li><strong>Tournaments</strong>: Compete for prizes</li>
+<li><strong>Party Fishing</strong>: Bonus XP/Entropy with others</li>
+</ul>
+<h3 id="advanced-hoppers">Advanced Hoppers</h3>
+<p>Upgrade hoppers via right-click GUI:</p>
+<ul>
+<li><strong>Upgrades</strong> (cost money/XP):</li>
+<li>Transfer Amount</li>
+<li>Suction Radius</li>
+<li>Link Amount/Distance</li>
+<li><strong>Features</strong>:</li>
+<li>Item filtering (whitelist/blacklist)</li>
+<li>Redstone control</li>
+</ul>
+<h3 id="custom-enchantments">Custom Enchantments</h3>
+<p>Access via <code>/enchanter</code> or Enchantment Table for powerful tool/armor enhancements.</p>
+<h3 id="mining-disabled">Mining+ (Disabled)</h3>
+<p>Temporarily disabled system for gemstones and artifacts (<code>/mine</code>).</p>
+<hr />
+<h2 id="rewards-and-currencies">Rewards and Currencies</h2>
+<h3 id="points-rewards-program">Points Rewards Program</h3>
+<p>Earn <strong>Recognition</strong> across the SQWARE Community Platform:</p>
+<ul>
+<li><strong>Earning</strong>: Complete quests, achievements, events, challenges, or gameplay</li>
+<li><strong>Global Levels</strong>: Gain XP from actions to earn Points</li>
+<li><strong>Spending</strong>: Buy cosmetics or QoL perks</li>
+</ul>
+<p>See <a href="../../rewards/">Points Rewards Program</a> for details.</p>
+<h3 id="other-rewards">Other Rewards</h3>
+<ul>
+<li><strong>Voting</strong> (<code>/vote</code>): Earn keys, money, or Points</li>
+<li><strong>Crates</strong> (<code>/warp crates</code>): Use keys for valuable items</li>
+<li><strong>Lottery</strong> (<code>/lottery</code>): Win currency prizes</li>
+<li><strong>Boosters</strong>: Temporary server-wide reward boosts</li>
+</ul>
+<hr />
+<h2 id="faq">FAQ</h2>
+<p><strong>Q: How do I reset my island?</strong><br />
+A: Use <code>/is disband</code> to start over (erases progress).</p>
+<p><strong>Q: Can I join multiple islands?</strong><br />
+A: Typically limited to one island but can join others as a team member.</p>
+<p><strong>Q: What happens if I fall off my island?</strong><br />
+A: You respawn safely.</p>
+<p><strong>Q: How do I earn money?</strong><br />
+A: Complete challenges, sell items (<code>/sell all</code>, <code>/ah</code>, chest shops), /quests, or trade.</p>
+<p><strong>Q: How do I report issues?</strong><br />
+A: Contact staff on our <a href="https://discord.sqware.pro">Discord server</a>.</p>
+<p><strong>Q: Where can I view statistics?</strong><br />
+A: Check <code>https://stats.sqware.pro</code>.</p>
+<hr />
+<h2 id="related-pages">Related Pages</h2>
+<ul>
+<li><a href="../overview/">Server Overview</a> - Browse all available game servers</li>
+<li><a href="../../rewards/">Points Rewards Program</a> - Learn how to earn and use Points</li>
+<li><a href="../rules/">Server Rules</a> - Community guidelines and regulations</li>
+<li><a href="../../store/">Store</a> - Purchase ranks and items to enhance your experience</li>
+<li><a href="../../bugs/">Bug Bounty Program</a> - Report issues and earn rewards</li>
+</ul>
+<p>Thank you for exploring the Skyblock Server Wiki! Build, expand, and conquer the skies!</p>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+  <script>var tabs=__md_get("__tabs");if(Array.isArray(tabs))e:for(var set of document.querySelectorAll(".tabbed-set")){var labels=set.querySelector(".tabbed-labels");for(var tab of tabs)for(var label of labels.getElementsByTagName("label"))if(label.innerText.trim()===tab){var input=document.getElementById(label.htmlFor);input.checked=!0;continue e}}</script>
+
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      <script id="__config" type="application/json">{"base": "../..", "features": ["content.code.annotate", "content.code.copy", "content.tabs.link", "navigation.indexes", "navigation.sections", "navigation.top", "navigation.tracking", "search.highlight", "search.share", "search.suggest"], "search": "../../assets/javascripts/workers/search.d50fe291.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.50899def.min.js"></script>
+      
+        <script src="../../javascripts/extra.js"></script>
+      
+    
+  </body>
+</html>
