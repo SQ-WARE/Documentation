@@ -56,7 +56,7 @@ hide:
 
     ---
 
-    Recognition translates directly into governance power. Vote on platform decisions, development direction, community standards, and resource allocation based on your contributions.
+    Recognition translates directly into governance power. With 500 SQ = 1 vote, participate in platform decisions, development direction, and community standards. Real influence for real contribution.
 
     [:octicons-arrow-right-24: Community Guidelines](servers/rules.md)
 
@@ -64,7 +64,7 @@ hide:
 
     ---
 
-    Our recognition system operates through SQ Tokens - earned through merit, providing governance rights and community ownership. Designed for participation, not speculation.
+    Earn SQ Tokens through gameplay and contribution - each hour played earns points convertible to SQ. Tokens provide governance rights and community ownership, not speculation opportunities.
 
     [:octicons-arrow-right-24: Token System](rewards.md)
 
@@ -99,13 +99,13 @@ hide:
 
     [:octicons-arrow-right-24: Points System](rewards.md)
 
--   :material-handshake:{ .lg .middle } **EULA Compliant Framework**
+-   :material-handshake:{ .lg .middle } **Community-First Framework**
 
     ---
 
-    Our system operates in full compliance with Minecraft's EULA - providing recognition and governance rights without gameplay advantages or pay-to-win mechanics.
+    Our system provides recognition and governance rights without gameplay advantages or pay-to-win mechanics, focusing on community value over monetization.
 
-    [:octicons-arrow-right-24: Legal Framework](servers/rules.md)
+    [:octicons-arrow-right-24: Community Framework](servers/rules.md)
 
 </div>
 
@@ -115,23 +115,31 @@ hide:
 
 ### **The Gaming Industry Crisis**
 
-The gaming world has lost its way. Publishers prioritize shareholders over players, manipulate psychology for profit, and treat communities as revenue streams rather than creative collaborations.
+The gaming industry has undergone a massive transformation, with business models increasingly prioritizing revenue extraction over player experience:
 
 **What We've Lost:**
-- **Player Agency**: Games designed around monetization, not fun
-- **Community Control**: Corporate decisions can destroy communities overnight  
-- **Digital Rights**: Players own nothing and have no say in changes
-- **Creative Freedom**: Innovation stifled by focus on proven revenue models
+
+- **Player Agency**: Microtransactions now dominate gaming revenue, generating $57.89 billion globally in 2024 and projected to reach $115 billion by 2034. In PC gaming specifically, 58% of all revenue ($24.4 billion) comes from microtransactions. Despite billions spent on digital items, players receive only temporary access rights without resale or transfer options.
+
+- **Community Control**: Games-as-a-service models can result in sudden community loss when companies discontinue support. Recent examples include Dauntless (servers closed May 2025), MultiVersus (servers closed May 2025), and XDefiant (servers closed June 2025). When servers shut down, entire communities and years of player progress become inaccessible.
+
+- **Digital Rights**: Despite spending billions on "purchases," players receive revocable licenses rather than ownership. Digital storefronts operate under licensing models where access can be terminated at any time. Gaming accounts with accumulated progress and achievements cannot be transferred or sold, unlike physical games that could be resold or gifted. When Ubisoft delisted The Crew in 2024, existing licenses were revoked, making previously purchased games unplayable. California passed AB 2426 in 2024 requiring clearer disclosure about licensing versus ownership, reflecting how companies have systematically obscured these limitations.
+
+- **Creative Freedom**: Revenue-focused development has shifted industry priorities toward proven monetization models. Game companies now have duties to shareholders to maximize revenue regardless of player satisfaction. Today's highest-grossing games prioritize engagement algorithms and spending triggers over innovative gameplay. Traditional game sales declined 2.6% in 2024 while microtransactions grew 1.4%, demonstrating this fundamental industry shift.
 
 ### **Our Solution: Community Empowerment**
 
-We're returning power to where it belongs—with the players who make gaming communities thrive.
+Rather than accepting the industry's current direction, we're demonstrating that sustainable, community-centered gaming is not only possible but more resilient:
 
 **What We're Building:**
-- **Stakeholder Communities**: Players become owners, not just users
-- **Merit-Based Influence**: Contribution matters more than wallet size
-- **Sustainable Development**: Long-term community health over short-term profits
-- **Player-First Design**: Features decided by those who actually play
+
+- **Genuine Stakeholder Communities**: Players earn real influence through meaningful participation—time invested, achievements earned, community contributions made. Our system rewards behaviors that strengthen the community itself rather than focusing primarily on spending-based metrics.
+
+- **Merit-Based Governance**: Decision-making power scales with constructive contribution rather than financial spending. Our governance polls require 500 SQ per vote and 5,000 SQ to propose changes, ensuring those most invested in community health drive platform direction.
+
+- **Transparent Development**: Community members directly influence development priorities through open governance processes. Our roadmap reflects actual player needs and community feedback, with significant changes debated and decided by the community they affect.
+
+- **Sustainable Economics**: We build systems where community success and individual satisfaction naturally align. Our model demonstrates that gaming platforms can thrive financially while prioritizing player agency and community ownership alongside sustainable development practices.
 
 ---
 
@@ -174,7 +182,7 @@ We're returning power to where it belongs—with the players who make gaming com
 !!! abstract "The Broader Vision"
     - **Decentralized community governance** that actually works
     - **Merit-based influence systems** that reward genuine contribution  
-    - **Sustainable community economics** that serve participants, not extractive corporations
+    - **Sustainable community economics** that serve participants over shareholders
     - **Digital spaces** where users have real ownership and control
 
 ### **The Future We're Building**
@@ -185,12 +193,12 @@ A world where digital communities belong to the people who create, maintain, and
 
 ## Join the Movement
 
-**SQWARE isn't just a gaming platform—it's a demonstration that communities can govern themselves effectively**, reward contribution fairly, and create sustainable alternatives to corporate-controlled digital spaces.
+**SQWARE isn't just a gaming platform—it's a demonstration that communities can govern themselves effectively**, reward contribution fairly, and create sustainable alternatives to traditional corporate-controlled digital spaces.
 
 Every player who joins, every community member who contributes, every person who believes in player empowerment helps prove that there's a better way to build digital worlds.
 
 !!! tip "Get Started Today"
-    The future of gaming is community-owned, legally compliant, and built to last. Help us build it.
+    The future of gaming is community-owned and built to last. Help us build it.
 
 [Connect to Server: mc.sqware.pro](minecraft://mc.sqware.pro){ .md-button .md-button--primary }
 [Join Discord Community](https://discord.sqware.pro){ .md-button }
