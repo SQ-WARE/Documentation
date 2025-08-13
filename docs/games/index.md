@@ -26,7 +26,7 @@ description: Experience the SQWARE community ownership model through our Minecra
 
     ---
 
-    Earn SQ Tokens through genuine contribution - not financial investment. Your time, skill, and community building efforts are what matter most in our ecosystem.
+    On Minecraft servers, you earn Points through genuine contribution (hourly playtime and achievements) — not financial investment. Points may be convertible to SQ Tokens (a governance token) in the future once available. Some non-Minecraft titles (e.g., Hytopia) may award SQ Tokens directly.
 
 -   :material-shield-check:{ .lg .middle } **EULA Compliant Framework**
 
@@ -156,6 +156,12 @@ Community members gaining real influence over platform development, policies, an
 **Community Leadership**: High contributors may be invited to participate in platform governance councils and development planning.
 
 **Future Platform Access**: Recognition earned now will translate to benefits and influence in future SQWARE platform implementations.
+
+---
+
+## Compliance Note (Minecraft)
+
+No blockchain technology or SQ Tokens are rewarded directly from Minecraft servers or clients. On Minecraft, recognition is awarded as Points only. Any future Point-to-SQ convertibility would occur off-server and outside the Minecraft client. References: [Minecraft EULA](https://www.minecraft.net/eula), [Usage Guidelines](https://www.minecraft.net/en-us/usage-guidelines)
 
 ---
 

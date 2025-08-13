@@ -64,7 +64,7 @@ hide:
 
     ---
 
-    Earn SQ Tokens through gameplay and contribution - each hour played earns points convertible to SQ. Tokens provide governance rights and community ownership, not speculation opportunities.
+    On Minecraft servers, each hour played and achievements earn Points. Points may be convertible to SQ Tokens (a governance token) in the future once available. Some non-Minecraft games may award SQ Tokens directly. Tokens provide governance rights and community ownership, not speculation opportunities.
 
     [:octicons-arrow-right-24: Token System](rewards.md)
 
@@ -172,6 +172,14 @@ Rather than accepting the industry's current direction, we're demonstrating that
     [:material-star: Recognition System](rewards.md) [:material-shopping: Community Store](store.md)
 
 </div>
+
+---
+
+## Compliance Note (Minecraft)
+
+**No blockchain or token payouts in Minecraft**: No blockchain technology or SQ Tokens are rewarded directly from Minecraft servers or clients. On Minecraft, recognition is Points-only. Any future convertibility of Points to SQ Tokens would happen off-server and outside the Minecraft client.
+
+References: [Minecraft EULA](https://www.minecraft.net/eula), [Usage Guidelines](https://www.minecraft.net/en-us/usage-guidelines)
 
 ---
 

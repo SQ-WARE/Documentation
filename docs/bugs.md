@@ -27,6 +27,9 @@ description: Contribute to platform security and stability through the SQWARE Bu
 ---
 
 ## Recognition Categories
+!!! note "Minecraft Compliance"
+    On Minecraft servers, all bug bounty recognition is awarded as Points via our in-game recognition system. SQ Tokens are not awarded on Minecraft servers. Points may be convertible to SQ Tokens (a governance token) in the future once available. On non-Minecraft titles, SQ Tokens may be awarded directly.
+
 
 <div class="grid cards" markdown>
 
@@ -36,7 +39,7 @@ description: Contribute to platform security and stability through the SQWARE Bu
 
     Critical vulnerabilities that could compromise platform infrastructure, user data, or community security.
 
-    **Recognition Range**: Up to 250,000 SQ Tokens + Special Recognition Status
+    **Recognition Range**: Up to 250,000 SQ Tokens (non-Minecraft) or equivalent recognition in Points on Minecraft servers + Special Recognition Status
 
     **Governance Impact**: Significant contribution to your platform governance influence and community standing.
 
@@ -46,7 +49,7 @@ description: Contribute to platform security and stability through the SQWARE Bu
 
     Issues that affect platform functionality, game balance, or community experience quality.
 
-    **Recognition Range**: 25,000 - 125,000 SQ Tokens based on severity + "[Platform Guardian]" Recognition Tag
+    **Recognition Range**: 25,000 - 125,000 SQ Tokens (non-Minecraft) or equivalent Points on Minecraft servers, based on severity + "[Platform Guardian]" Recognition Tag
 
     **Community Impact**: Direct contribution to improving the experience for all community members.
 
@@ -56,7 +59,7 @@ description: Contribute to platform security and stability through the SQWARE Bu
 
     Identifying potential vulnerabilities before they become exploitable issues.
 
-    **Recognition Range**: Discretionary SQ Tokens + Enhanced Community Status
+    **Recognition Range**: Discretionary SQ Tokens (non-Minecraft) or Points on Minecraft servers + Enhanced Community Status
 
     **Development Input**: Priority feedback channels for platform security and development decisions.
 
@@ -97,28 +100,28 @@ description: Contribute to platform security and stability through the SQWARE Bu
 ### **Critical Severity**
 **Immediate Platform Risk**: Issues requiring immediate attention due to potential for significant community harm.
 
-**Recognition**: Up to 250,000 SQ Tokens + Permanent "Critical Contributor" status
+**Recognition**: Up to 250,000 SQ Tokens (non-Minecraft) or equivalent Points on Minecraft servers + Permanent "Critical Contributor" status
 
 **Governance Rights**: Enhanced voting power and potential invitation to security advisory roles.
 
 ### **High Severity**  
 **Significant Impact**: Problems that substantially affect platform functionality or community experience.
 
-**Recognition**: 125,000 SQ Tokens + "High Impact Contributor" recognition tag
+**Recognition**: 125,000 SQ Tokens (non-Minecraft) or equivalent Points on Minecraft servers + "High Impact Contributor" recognition tag
 
 **Community Role**: Priority input on platform security and development decisions.
 
 ### **Medium Severity**
 **Notable Issues**: Problems that affect specific features or limited user groups.
 
-**Recognition**: 75,000 SQ Tokens + "Platform Guardian" recognition tag
+**Recognition**: 75,000 SQ Tokens (non-Minecraft) or equivalent Points on Minecraft servers + "Platform Guardian" recognition tag
 
 **Contribution Credit**: Public acknowledgment of your platform improvement contributions.
 
 ### **Low Severity**
 **Minor Problems**: Issues with limited impact but valuable for overall platform improvement.
 
-**Recognition**: 25,000 SQ Tokens + "Community Helper" recognition tag
+**Recognition**: 25,000 SQ Tokens (non-Minecraft) or equivalent Points on Minecraft servers + "Community Helper" recognition tag
 
 **Development Participation**: Access to beta testing and platform improvement discussions.
 
@@ -149,7 +152,7 @@ description: Contribute to platform security and stability through the SQWARE Bu
 ## Recognition Benefits
 
 ### **Immediate Rewards**
-**SQ Token Recognition**: Direct contribution to your community governance influence based on report significance.
+**Recognition**: SQ Tokens (non-Minecraft) or Points (Minecraft) based on report significance.
 
 **Special Status**: Community recognition tags acknowledging your contribution to platform security.
 

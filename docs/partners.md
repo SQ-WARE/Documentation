@@ -47,11 +47,11 @@ description: Join the SQWARE Partnership Program and help demonstrate that commu
 
     ---
 
-    Earn both traditional compensation and SQ Tokens for your contributions to platform growth and community building.
+    Earn both traditional compensation and SQ Tokens (or Points on Minecraft servers, convertible to SQ when available) for your contributions to platform growth and community building.
 
     **Immediate Compensation**: Direct payment for content performance and community engagement.
     
-    **Long-term Stake**: SQ Tokens that provide ongoing influence over platform governance and development.
+    **Long-term Stake**: SQ Tokens that provide ongoing influence over platform governance and development (on Minecraft servers, recognition is awarded as Points with potential future convertibility to SQ).
 
 -   :material-star-circle:{ .lg .middle } **Platform Influence**
 
@@ -92,14 +92,14 @@ description: Join the SQWARE Partnership Program and help demonstrate that commu
 **Our compensation reflects both immediate value and long-term community investment:**
 
 ### **Content Performance Rewards**
-- **Long-Form Videos**: $5.00 USD per 1,000 views + SQ Token recognition
-- **Short-Form Content**: $5.00 USD per 10,000 views + SQ Token recognition  
-- **Livestreams**: $5.00 USD per hour (10+ average viewers) + SQ Token recognition
+- **Long-Form Videos**: $5.00 USD per 1,000 views + SQ Token recognition (or Points on Minecraft servers, convertible to SQ when available)
+- **Short-Form Content**: $5.00 USD per 10,000 views + SQ Token recognition (or Points on Minecraft servers, convertible to SQ when available)  
+- **Livestreams**: $5.00 USD per hour (10+ average viewers) + SQ Token recognition (or Points on Minecraft servers, convertible to SQ when available)
 
 ### **Community Contribution Recognition**
-- **Platform Advocacy**: SQ Tokens for authentic representation of community ownership values
+- **Platform Advocacy**: SQ Tokens (or Points on Minecraft servers, convertible to SQ when available) for authentic representation of community ownership values
 - **Community Building**: Enhanced recognition for fostering positive community engagement
-- **Governance Participation**: Additional tokens for active participation in platform governance
+- **Governance Participation**: Additional recognition (SQ Tokens on non-Minecraft titles; Points on Minecraft servers) for active participation in platform governance
 
 ### **Long-term Partnership Benefits**
 - **Growing Influence**: Recognition accumulates over time, increasing your platform governance power
