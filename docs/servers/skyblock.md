@@ -82,7 +82,7 @@ Enhance your island via `/is upgrades` or the `/island` menu:
 - **Generators**: Improve block variety (e.g., ores)
 - **Crop Growth**: Boost crop growth speed
 - **Spawner Boost**: Increase mob spawn rates
-- **Premium Drops**: Enhance mob drop quality
+-- **Premium Drops**: Enhance mob drop quality
 - **Hopper Limit**: Raise the number of placeable hoppers
 
 ### Team and Co-op

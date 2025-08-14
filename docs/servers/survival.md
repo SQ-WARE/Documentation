@@ -119,7 +119,7 @@ Earn currency via **Jobs**.
 Complete **Quests** for rewards.
 
 - **Access**: Use `/quests` or interact with NPCs.
-- **Limits**: Vary by rank (e.g., Spark: 5, Premium: 10).
+ - **Limits**: Vary by rank.
 
 ---
 

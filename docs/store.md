@@ -10,7 +10,7 @@ Discover a variety of options to enhance your experience on our servers. Whether
 
     <hr>
 
-    Unlock unique perks and exclusive rewards with our rank system. From basic benefits to Premium experiences, ranks elevate your gameplay and offer hourly rewards.
+    Unlock unique perks and exclusive rewards with our rank system. From basic benefits to exclusive experiences, ranks elevate your gameplay and offer hourly rewards.
 
     [:octicons-arrow-right-24: View Rank Details](#ranks-section)
 
@@ -39,6 +39,55 @@ Discover a variety of options to enhance your experience on our servers. Whether
     [:octicons-arrow-right-24: View Exclusive Items](https://shop.sqware.pro)
 
 </div>
+
+## Premium Membership
+
+Get Premium to supercharge recognition and unlock exclusive perks. Available only at [sqware.pro](https://sqware.pro).
+
+**Pricing**  
+- $20/month  
+- $69.99 one‑time
+
+[Get Premium](https://sqware.pro){ .md-button .md-button--primary }
+
+!!! note "Fair Play Promise"
+    Premium provides progression and cosmetic benefits only. No gameplay advantages are granted.
+
+<div class="grid cards fluid-layout" markdown>
+
+-   :material-star-circle:{ .lg .middle } **6× Faster Point Earnings**
+
+    ---
+
+    Earn 6× more Points from hourly gameplay and activities. Your time is rewarded more generously with Premium.
+
+-   :material-palette:{ .lg .middle } **Exclusive Cosmetics**
+
+    ---
+
+    Unlock Premium‑only skins, particle effects, chat formats, and visual enhancements.
+
+-   :material-crown:{ .lg .middle } **Premium Roles**
+
+    ---
+
+    VIP roles on Discord and game servers with special styling and priority access to events.
+
+-   :material-gift:{ .lg .middle } **Monthly Bonus Rewards**
+
+    ---
+
+    Receive exclusive monthly rewards, bonus Points, and special items.
+
+-   :material-rocket-launch:{ .lg .middle } **Early Access**
+
+    ---
+
+    Be first to try new features and servers before general release.
+
+</div>
+
+---
 
 ## Ranks Section
 
@@ -130,31 +179,7 @@ Ranks are a great way to unlock additional features and rewards. Each rank provi
 
     [:octicons-arrow-right-24: Purchase Orion Rank](https://shop.sqware.pro/package/1101436)
 
--   :material-circle:{ .lg style="color: #ed7b00;" } __Premium Rank__
-
-    <hr>
-
-    **Price:** $49.99  
-
-    **Perks:**
-
-    - :material-check: All previous rank benefits
-    - :material-check: 20 homes total
-    - :material-check: Access to all Premium-exclusive kits
-    - :material-check: `/speed` command for faster movement
-    - :material-check: Custom trail effects and cosmetics
-    - :material-check: Priority support and assistance
-    - :material-check: Access to exclusive Premium areas
-    - :material-check: Maximum claim blocks and protections
-
-    **Hourly Rewards:**  
-
-    - 1,000 Points  
-    - Crate Keys
-
-    [:octicons-arrow-right-24: Purchase Premium Rank](https://shop.sqware.pro/package/933341)
-
--   :material-circle:{ .lg style="color: #b35eff;" } __Partner Rank__
+ -   :material-circle:{ .lg style="color: #b35eff;" } __Partner Rank__
 
     <hr>
 

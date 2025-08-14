@@ -34,6 +34,7 @@ theme:
     accent: blue
 
 markdown_extensions:
+  - meta
   - attr_list
   - md_in_html
   - pymdownx.emoji:
@@ -55,6 +56,7 @@ nav:
   - Home: index.md
   - 'Community Platform':
     - 'Current Platform': games/index.md
+    - 'ESCAPE (Hytopia)': games/escape.md
     - 'Minecraft Servers': 
       - 'Server Overview': servers/overview.md
       - 'Survival': servers/survival.md
@@ -66,4 +68,3 @@ nav:
   - 'Community Store': store.md
   - 'Partnership Program': partners.md
   - 'Bug Bounty Program': bugs.md
-  - 'Archive': archive/index.md

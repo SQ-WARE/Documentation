@@ -16,7 +16,7 @@ description: Explore SQWARE's Minecraft servers where community ownership and me
 
 **Each server operates as part of our broader community governance experiment**, proving that player-owned platforms can provide:
 
- - **Merit-Based Recognition**: Contribution earns Points on Minecraft (hourly/achievements) which may be convertible to SQ Tokens in the future once available; other supported games may award SQ Tokens directly. These provide real influence over platform decisions.
+ - **Merit-Based Recognition**: Contribution across all games earns Points (hourly/achievements). Points may be exchangeable for the Token in the future once available. No games distribute tokens directly in-client. Points and Tokens provide real influence over platform decisions.
 - **Collaborative Development**: Community input shapes server features, rules, and development priorities  
 - **Sustainable Economics**: EULA-compliant systems that reward participation without pay-to-win mechanics
 - **Democratic Governance**: Players vote on server policies, resource allocation, and community standards
@@ -154,7 +154,7 @@ description: Explore SQWARE's Minecraft servers where community ownership and me
 
 ### Compliance Note (Minecraft)
 
-No blockchain technology or SQ Tokens are rewarded directly from Minecraft servers or clients. On Minecraft, recognition is awarded as Points only. Any future Point-to-SQ convertibility would occur off-server and outside the Minecraft client. See: [Minecraft EULA](https://www.minecraft.net/eula) and [Usage Guidelines](https://www.minecraft.net/en-us/usage-guidelines).
+No blockchain technology or Tokens are rewarded directly from Minecraft servers or clients. On Minecraft, recognition is awarded as Points only. Any future Point-to-Token exchange would occur off-server and outside the Minecraft client. The Token is used for governance rights and platform use only. See: [Minecraft EULA](https://www.minecraft.net/eula) and [Usage Guidelines](https://www.minecraft.net/en-us/usage-guidelines).
 
 ---
 

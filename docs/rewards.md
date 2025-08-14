@@ -1,6 +1,6 @@
 ---
 title: Recognition System
-description: Learn how the SQWARE Recognition System works: on Minecraft servers you earn Points hourly and via achievements; Points may be convertible to SQ Tokens (a governance token) when available. Some non-Minecraft games may award SQ directly.
+description: Learn how the SQWARE Recognition System works: across all games you earn Points hourly and via achievements; Points may be exchangeable for the Token when available. The token is used for governance rights and platform use only.
 ---
 
 # Recognition System
@@ -8,7 +8,7 @@ description: Learn how the SQWARE Recognition System works: on Minecraft servers
 
 *Translating contribution into influence*
 
-**The SQWARE Recognition System is the foundation of our community ownership model.** On Minecraft servers, every hour you play and achievements you earn grant Points (earned hourly or through achievements). Points may be convertible to SQ Tokens (a governance token) in the future once available. On other supported games (e.g., Hytopia), we may award SQ Tokens directly.
+**The SQWARE Recognition System is the foundation of our community ownership model.** Across all supported games, every hour you play and achievements you earn grant Points. Points may be exchangeable for the Token in the future once available. It is for governance rights and platform use only.
 
 ---
 
@@ -26,15 +26,16 @@ Unlike traditional gaming economies built around financial transactions, our sys
 - **Creative Contributions**: Building content, sharing knowledge, fostering positive culture
 - **Platform Development**: Reporting bugs, providing feedback, testing new features
 
-### **SQ Token Framework**
+### **Token Framework**
 
-**SQ Tokens represent your stake in the SQWARE community** - both your past contributions and your ongoing influence over platform governance.
+**Tokens represent your stake in the SQWARE community** - both your past contributions and your ongoing influence over platform governance.
 
 **Key Principles:**
 
 - **Earned, Not Bought**: Tokens come from contribution, not financial investment
 - **Governance Rights**: Tokens provide voting power on platform decisions
 - **Community Ownership**: Higher token holders have greater influence over development
+
 - **Sustainable Design**: Built for long-term community health, not speculation
 
 ---
@@ -82,12 +83,12 @@ Unlike traditional gaming economies built around financial transactions, our sys
 ## Recognition Categories
 
 ### **Automatic Recognition**
-**Gameplay Achievements**: On Minecraft servers, server-integrated systems automatically award Points for hourly playtime and in-game milestones/achievement completion. Points may be convertible to SQ Tokens (a governance token) in the future once available. On non-Minecraft titles, SQ Tokens may be awarded directly.
+**Gameplay Achievements**: Server-integrated systems automatically award Points for hourly playtime and in-game milestones/achievement completion across all games. Points may be exchangeable for the Token in the future once available. No tokens are awarded directly in-game on any title.
 
 **Community Metrics**: Platform participation, Discord engagement, and peer interactions contribute to automatic recognition calculations.
 
 ### **Manual Recognition**
-**Exceptional Contributions**: Community leaders and staff can nominate players for manual recognition awards (Points on Minecraft; SQ Tokens on non-Minecraft titles) based on outstanding community service.
+**Exceptional Contributions**: Community leaders and staff can nominate players for manual recognition awards (Points) based on outstanding community service.
 
 **Development Participation**: Contributing to platform development, testing, and improvement initiatives earns discretionary recognition.
 
@@ -139,7 +140,9 @@ Unlike traditional gaming economies built around financial transactions, our sys
 
 ### Minecraft Compliance and References
 
-**Compliance Statement**: No blockchain technology or SQ Tokens are rewarded directly from Minecraft servers or clients. On Minecraft, all recognition is issued as Points via in-game systems. Points may be convertible to SQ Tokens (a governance token) in the future once available; any such conversion would occur off-server and outside the Minecraft client.
+**Compliance Statement**: No blockchain technology or Tokens are rewarded directly from Minecraft servers or clients. On Minecraft, all recognition is issued as Points via in-game systems. Points may be exchangeable for the Token in the future once available; any such conversion would occur off-server and outside the Minecraft client.
+
+**All Games**: No game client distributes Tokens directly. Recognition is earned as Points, and any future Point-to-Token exchange would occur on SQWARE-operated services outside of game clients. The Token is used for governance rights and platform use only.
 
 **References**:
 - [Minecraft EULA](https://www.minecraft.net/eula)

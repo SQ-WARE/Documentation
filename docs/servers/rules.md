@@ -116,7 +116,7 @@ description: Community guidelines that support our merit-based governance system
 
 ### Minecraft Compliance and References
 
-**Compliance Statement**: No blockchain technology or SQ Tokens are rewarded directly from Minecraft servers or clients. On Minecraft, all recognition is issued as Points via in-game systems. Points may be convertible to SQ Tokens (a governance token) in the future once available; any such conversion would occur off-server and outside the Minecraft client.
+**Compliance Statement**: No blockchain technology or Tokens are rewarded directly from Minecraft servers or clients. On Minecraft, all recognition is issued as Points via in-game systems. Points may be exchangeable for the Token in the future once available; any such exchange would occur off-server and outside the Minecraft client. The Token is used for governance rights and platform use only.
 
 **References**:
 - [Minecraft EULA](https://www.minecraft.net/eula)

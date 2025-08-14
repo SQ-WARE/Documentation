@@ -15,7 +15,7 @@ Our main rule is to use common sense. Cheating, griefing, and exploiting bugs ar
 If you encounter a large-scale build destroyed by another player, contact an Admin for a potential rollback. Similarly, if you find a game mechanic that doesn't feel vanilla (like a broken redstone machine), please report it.
 
 ### Essential Commands
-*   **/sethome [name]**: Sets your home location. You can have up to 2 homes (3 for Premium rank).
+*   **/sethome [name]**: Sets your home location. You can have up to 2 homes.
 *   **/home [name]**: Teleports you to your set home.
 *   **/tpa <player>**: Request to teleport to another player.
 *   **/spawn**: Teleports you to the server's spawn point.
