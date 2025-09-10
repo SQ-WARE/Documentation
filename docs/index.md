@@ -5,55 +5,57 @@ description: SQWARE is a community‑owned gaming platform where contribution cr
 
 # SQWARE
 
-*Where players become stakeholders. Where contribution creates ownership.*
+**Community-Owned Gaming Platform** where your gameplay contributions earn you real ownership and governance power.
 
 ---
 
-## Core pillars
+## What is SQWARE?
 
-**SQWARE is a community‑owned gaming platform** where contribution turns into governance influence and platform benefits.
+SQWARE is a **community-owned gaming platform** where players earn ownership stakes through gameplay and contribution. Think of it like earning shares in a company - the more you contribute, the more influence you have over platform decisions.
+
+### How It Works
+
+1. **Play & Contribute** - Earn Points through gameplay, achievements, and community participation
+2. **Exchange for Ownership** - Convert Points to Tokens (like company shares) via off-game exchange
+3. **Use Your Tokens** - Vote on decisions, purchase ranks/cosmetics, support creators, or buy merchandise
+
+!!! note "Token Availability"
+    **Governance Tokens are not yet available.** Currently, players earn Points through gameplay. Token exchange and governance features will be implemented in future updates.
+
+---
+
+## Core Principles
 
 <div class="grid cards" markdown>
 
--   :material-account-group:{ .lg .middle } **Player‑Owned Platforms**
+-   :material-account-group:{ .lg .middle } **Player Ownership**
 
     ---
 
-    Communities belong to the people who build them. Contribution translates into voice and influence.
+    Communities belong to the people who build them. Your contributions earn you real ownership stakes in the platform.
 
--   :material-vote:{ .lg .middle } **Governance Through Contribution**
-
-    ---
-
-    500 Tokens = 1 vote; 5,000 Tokens to propose changes. Tokens are for governance rights and platform use only.
-
--   :material-shield-account:{ .lg .middle } **True Digital Ownership**
+-   :material-vote:{ .lg .middle } **Democratic Governance**
 
     ---
 
-    Your time and effort build lasting identity and status across the platform.
+    Token holders vote on platform decisions, development priorities, and community standards.
+
+-   :material-shield-account:{ .lg .middle } **Merit-Based Recognition**
+
+    ---
+
+    Influence is earned through contribution, not financial investment. Your time and effort build lasting status.
 
 </div>
 
 ---
 
-### How it works
+## Play Now: Minecraft
 
-- **Recognition (Points)** for hourly playtime, achievements, and community contribution  
-  [:octicons-arrow-right-24: Recognition System](rewards.md)
-- **Governance (Tokens)** when available via off‑game exchange; 500 Tokens = 1 vote; 5,000 to propose  
-  [:octicons-arrow-right-24: Community Guidelines](servers/rules.md)
-- **Compliance**: No tokens/blockchain in game clients; any exchange happens off‑server  
-  [:octicons-arrow-right-24: Learn More](rewards.md)
-
----
-
-## Play now: Minecraft
-
-!!! info "Experience SQWARE"
+!!! info "Join the Community"
     **Server:** `mc.sqware.pro`  
     **Versions:** Java 1.21.x+ (Bedrock compatible)  
-    **Modes:** Survival, Classic Survival, Skyblock, KitPvP
+    **Game Modes:** Survival, Classic Survival, Skyblock
 
 [How to Connect](games/index.md){ .md-button .md-button--primary }
 [Join Discord](https://discord.sqware.pro){ .md-button }
@@ -64,32 +66,7 @@ mc.sqware.pro
 
 ---
 
-## Community platform & projects
-
-<div class="grid cards" markdown>
-
--   :material-gamepad-variant:{ .lg .middle } **Minecraft Servers**
-
-    ---
-
-    Live implementation of community ownership. Earn Points through play and participation that contribute to governance influence.
-
-    [:octicons-arrow-right-24: Explore Servers](games/index.md)
-
--   :material-rocket-launch:{ .lg .middle } **ESCAPE (Hytopia SDK)**
-
-    ---
-
-    Open‑source multiplayer loot extraction shooter developed in public with the Hytopia SDK. Tactical PvPvE, meaningful economy, persistent progression, fair design.
-
-    [:octicons-arrow-right-24: Project Page](games/escape.md)  
-    [:octicons-mark-github-16: GitHub Repository](https://github.com/SQ-WARE/ESCAPE)
-
-</div>
-
----
-
-## Servers at a glance
+## Available Game Modes
 
 <div class="grid cards" markdown>
 
@@ -97,85 +74,97 @@ mc.sqware.pro
 
     ---
 
-    Vanilla+ with custom enchants, skills, MMO features, land claims, player economy, quests, and events.
+    Enhanced survival with custom features, skills, land claims, and player economy. Your building and exploration contribute to platform ownership.
 
-    [:octicons-arrow-right-24: Details](servers/survival.md)
+    [:octicons-arrow-right-24: Learn More](servers/survival.md)
 
 -   :material-castle:{ .lg .middle } **Classic Survival**
 
     ---
 
-    Pure vanilla, long‑term world that never resets. Bolt protections and a player‑driven Points economy.
+    Pure vanilla Minecraft with long-term world persistence. Traditional gameplay with community ownership benefits.
 
-    [:octicons-arrow-right-24: Details](servers/classic-survival.md)
+    [:octicons-arrow-right-24: Learn More](servers/classic-survival.md)
 
 -   :material-cloud:{ .lg .middle } **Skyblock**
 
     ---
 
-    Build your floating island with upgrades, Minions, Spawners+, Fishing+, AH/shops, and 6k+ quests.
+    Build your floating island empire with upgrades, minions, and quests. Your progression contributes to governance influence.
 
-    [:octicons-arrow-right-24: Details](servers/skyblock.md)
-
--   :material-sword-cross:{ .lg .middle } **KitPvP**
-
-    ---
-
-    Fast, competitive PvP with kits, arenas, killstreaks, ranks, and cosmetics.
-
-    [:octicons-arrow-right-24: Details](servers/kitpvp.md)
+    [:octicons-arrow-right-24: Learn More](servers/skyblock.md)
 
 </div>
 
 ---
 
-## Programs & opportunities
+## Community Projects
 
 <div class="grid cards" markdown>
 
--   :material-bug:{ .lg .middle } **Bug Bounty Program**
+-   :material-rocket-launch:{ .lg .middle } **ESCAPE**
 
     ---
 
-    Help protect our shared space. Report vulnerabilities and earn recognition based on impact.
+    Open-source multiplayer loot extraction shooter built with Hytopia SDK. Currently in development with community input.
 
-    [:octicons-arrow-right-24: Read Program](bugs.md)
+    [:octicons-arrow-right-24: Project Details](games/escape.md)  
+    [:octicons-mark-github-16: GitHub](https://github.com/SQ-WARE/ESCAPE)
+
+</div>
+
+---
+
+## Recognition & Rewards
+
+<div class="grid cards" markdown>
+
+-   :material-chart-line:{ .lg .middle } **Recognition System**
+
+    ---
+
+    Earn Points through gameplay, achievements, and community contribution. Points exchange for Tokens (ownership shares).
+
+    [:octicons-arrow-right-24: How It Works](rewards.md)
+
+-   :material-bug:{ .lg .middle } **Bug Bounty**
+
+    ---
+
+    Help secure the platform and earn significant recognition for finding vulnerabilities.
+
+    [:octicons-arrow-right-24: Program Details](bugs.md)
 
 -   :material-handshake:{ .lg .middle } **Partnership Program**
 
     ---
 
-    Build the future together. Earn recognition and compensation while showcasing community ownership in action.
+    Content creators and developers can earn recognition and compensation while promoting community ownership.
 
-    [:octicons-arrow-right-24: Read Program](partners.md)
-
--   :material-store:{ .lg .middle } **Community Store**
-
-    ---
-
-    Upgrade your experience with ranks and cosmetics. No pay‑to‑win advantages.
-
-    [:octicons-arrow-right-24: Visit Store](store.md)
+    [:octicons-arrow-right-24: Join Program](partners.md)
 
 </div>
 
 ---
 
+## Get Started
 
-## Quick start
+### Quick Start Guide
 
-1. Install Minecraft Java 1.21.x+ (or join via Bedrock)  
-2. Add server `mc.sqware.pro` and connect  
-3. Start contributing: play, help others, complete achievements  
-4. Join governance on Discord and shape the roadmap
+1. **Connect to Minecraft** - Join `mc.sqware.pro` with Java 1.21.x+ or Bedrock
+2. **Start Playing** - Choose your preferred game mode and begin contributing
+3. **Join Discord** - Connect with the community and participate in governance discussions
+4. **Earn Recognition** - Your gameplay automatically earns Points toward platform ownership
+
+### Community Resources
 
 <div class="grid cards" markdown>
 
--   :material-rocket-launch:{ .lg .middle } **Connect Now**
+-   :material-rocket-launch:{ .lg .middle } **Connect to Server**
 
     ---
 
-    Launch Minecraft and join the community platform. Use this server address:
+    Launch Minecraft and join the community platform:
 
     ```text
     mc.sqware.pro
@@ -185,7 +174,7 @@ mc.sqware.pro
 
     ---
 
-    Participate in governance discussions and community support.
+    Participate in governance discussions, get support, and connect with the community.
 
     [discord.sqware.pro](https://discord.sqware.pro){ .md-button }
 
@@ -193,7 +182,7 @@ mc.sqware.pro
 
     ---
 
-    Use your recognition to influence decisions as voting opens.
+    Use your recognition to influence platform decisions as voting becomes available.
 
     [vote.sqware.pro](https://vote.sqware.pro){ .md-button }
 
@@ -201,15 +190,13 @@ mc.sqware.pro
 
 ---
 
-## Useful links
+## Key Links
 
-- **Server**: `mc.sqware.pro`  
-- **Discord**: <https://discord.sqware.pro>  
-- **Store**: <https://shop.sqware.pro>  
-- **Stats**: <https://stats.sqware.pro>
+- **Minecraft Server**: `mc.sqware.pro`  
+- **Discord Community**: <https://discord.sqware.pro>  
+- **Community Store**: <https://shop.sqware.pro>  
+- **Player Statistics**: <https://stats.sqware.pro>
 
 ---
 
-*Where gaming meets governance. Where communities own their future.*
-
-
+*Where gaming meets ownership. Where communities control their future.*

@@ -27,8 +27,8 @@ description: Contribute to platform security and stability through the SQWARE Bu
 ---
 
 ## Recognition Categories
-!!! note "Minecraft Compliance"
-    On Minecraft servers and all supported games, bug bounty recognition is awarded as Points via our in-game recognition systems. Tokens are not awarded directly in any game client. Points may be exchangeable for the Token in the future once available. The Token is used for governance rights and platform use only.
+!!! note "Recognition System"
+    On Minecraft servers and all supported games, bug bounty recognition is awarded as Points via our in-game recognition systems. The Token is used for governance rights and platform use only.
 
 
 <div class="grid cards" markdown>

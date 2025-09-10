@@ -19,19 +19,13 @@ description: Experience SQWARE’s community ownership model — play, contribut
 
     ---
 
-    Contribution → recognition → governance. 500 Tokens = 1 vote; 5,000 to propose (off‑game exchange when available).
+    Contribution → recognition → ownership. Tokens (like company shares) available via off‑game exchange for governance, purchases, and community support.
 
 -   :material-chart-line:{ .lg .middle } **Merit‑Based Recognition**
 
     ---
 
     Earn Points from hourly playtime and achievements across all games. No tokens are distributed in any client.
-
--   :material-shield-check:{ .lg .middle } **EULA‑Compliant Framework**
-
-    ---
-
-    Governance rights and community benefits without pay‑to‑win mechanics.
 
 </div>
 
@@ -79,13 +73,6 @@ mc.sqware.pro
 
     [:octicons-arrow-right-24: Details](../servers/skyblock.md)
 
--   :material-sword-cross:{ .lg .middle } **KitPvP**
-
-    ---
-
-    Fast, competitive PvP with kits, arenas, killstreaks, ranks, and cosmetics.
-
-    [:octicons-arrow-right-24: Details](../servers/kitpvp.md)
 
 </div>
 
@@ -123,12 +110,6 @@ mc.sqware.pro
 2. Add server `mc.sqware.pro` and connect  
 3. Start contributing: play, help others, complete achievements  
 4. Join Discord for governance and development input
-
----
-
-## Compliance
-
-No blockchain or Tokens are rewarded directly from any game clients. Recognition is Points‑only in clients. Any future Point→Token exchange would occur off‑server and outside game clients. The Token is used for governance rights and platform use only.
 
 ---
 

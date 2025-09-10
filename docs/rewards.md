@@ -1,6 +1,6 @@
 ---
 title: Recognition System
-description: Learn how the SQWARE Recognition System works: across all games you earn Points hourly and via achievements; Points may be exchangeable for the Token when available. The token is used for governance rights and platform use only.
+description: Learn how the SQWARE Recognition System works: across all games you earn Points hourly and via achievements. The token is used for governance rights and platform use only.
 ---
 
 # Recognition System
@@ -8,7 +8,7 @@ description: Learn how the SQWARE Recognition System works: across all games you
 
 *Translating contribution into influence*
 
-**The SQWARE Recognition System is the foundation of our community ownership model.** Across all supported games, every hour you play and achievements you earn grant Points. Points may be exchangeable for the Token in the future once available. It is for governance rights and platform use only.
+**The SQWARE Recognition System is the foundation of our community ownership model.** Across all supported games, every hour you play and achievements you earn grant Points. It is for governance rights and platform use only.
 
 ---
 
@@ -28,12 +28,13 @@ Unlike traditional gaming economies built around financial transactions, our sys
 
 ### **Token Framework**
 
-**Tokens represent your stake in the SQWARE community** - both your past contributions and your ongoing influence over platform governance.
+**Tokens represent your stake in the SQWARE community** - like shares in a company, they represent both your past contributions and your ongoing influence over platform governance.
 
 **Key Principles:**
 
 - **Earned, Not Bought**: Tokens come from contribution, not financial investment
 - **Governance Rights**: Tokens provide voting power on platform decisions
+- **Multiple Use Cases**: Purchase ranks, cosmetics, merchandise, support creators, or donate to community projects
 - **Community Ownership**: Higher token holders have greater influence over development
 
 - **Sustainable Design**: Built for long-term community health, not speculation
@@ -83,7 +84,7 @@ Unlike traditional gaming economies built around financial transactions, our sys
 ## Recognition Categories
 
 ### **Automatic Recognition**
-**Gameplay Achievements**: Server-integrated systems automatically award Points for hourly playtime and in-game milestones/achievement completion across all games. Points may be exchangeable for the Token in the future once available. No tokens are awarded directly in-game on any title.
+**Gameplay Achievements**: Server-integrated systems automatically award Points for hourly playtime and in-game milestones/achievement completion across all games. No tokens are awarded directly in-game on any title.
 
 **Community Metrics**: Platform participation, Discord engagement, and peer interactions contribute to automatic recognition calculations.
 
@@ -108,6 +109,15 @@ Unlike traditional gaming economies built around financial transactions, our sys
 
 **Leadership Opportunities**: High recognition holders may be invited to join governance councils and development planning committees.
 
+### **Token Use Cases**
+**In-Game Purchases**: Use Tokens to purchase ranks, cosmetics, special items, and gameplay enhancements.
+
+**Community Store**: Buy merchandise, exclusive items, and platform-branded products with your Tokens.
+
+**Creator Support**: Donate Tokens to content creators, streamers, and community contributors.
+
+**Project Funding**: Support community projects, events, and development initiatives through Token donations.
+
 ### **Platform Access**
 **Early Features**: Access to new platform features and game modes before general release.
 
@@ -122,31 +132,6 @@ Unlike traditional gaming economies built around financial transactions, our sys
 
 **Recognition Status**: Public acknowledgment of your contributions and influence within the community.
 
----
-
-## EULA Compliance Framework
-
-**Our Recognition System operates in full compliance with Minecraft's EULA** while pioneering new models of community empowerment:
-
-**No Gameplay Advantages**: Recognition provides governance rights and cosmetic benefits, never competitive advantages.
-
-**Merit-Based Access**: All game content remains accessible to all players regardless of recognition level.
-
-**Community Benefits**: Recognition translates to influence over community decisions, not gameplay superiority.
-
-**Transparent Framework**: All recognition calculations and governance processes are transparent and community-auditable.
-
----
-
-### Minecraft Compliance and References
-
-**Compliance Statement**: No blockchain technology or Tokens are rewarded directly from Minecraft servers or clients. On Minecraft, all recognition is issued as Points via in-game systems. Points may be exchangeable for the Token in the future once available; any such conversion would occur off-server and outside the Minecraft client.
-
-**All Games**: No game client distributes Tokens directly. Recognition is earned as Points, and any future Point-to-Token exchange would occur on SQWARE-operated services outside of game clients. The Token is used for governance rights and platform use only.
-
-**References**:
-- [Minecraft EULA](https://www.minecraft.net/eula)
-- [Minecraft Usage Guidelines](https://www.minecraft.net/en-us/usage-guidelines)
 
 ---
 

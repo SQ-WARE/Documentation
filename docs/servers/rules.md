@@ -1,6 +1,6 @@
 ---
 title: Community Rules
-description: Community guidelines that support our merit-based governance system and EULA-compliant framework for community-owned gaming.
+description: Community guidelines that support our merit-based governance system for community-owned gaming.
 ---
 
 # Community Rules
@@ -8,7 +8,7 @@ description: Community guidelines that support our merit-based governance system
 
 *Guidelines that enable community ownership*
 
-**These community guidelines form the foundation of our merit-based governance system.** They ensure a fair, safe, and welcoming environment where every community member can contribute meaningfully to our shared digital space while maintaining full compliance with Minecraft's EULA.
+**These community guidelines form the foundation of our merit-based governance system.** They ensure a fair, safe, and welcoming environment where every community member can contribute meaningfully to our shared digital space.
 
 ---
 
@@ -18,7 +18,7 @@ description: Community guidelines that support our merit-based governance system
 
 **Merit-Based Enforcement**: Rule enforcement considers community contribution and governance participation, fostering collaborative resolution.
 
-**EULA Compliance**: All guidelines operate within Minecraft's EULA framework, ensuring sustainable platform development.
+**Sustainable Development**: All guidelines support sustainable platform development.
 
 **Evolutionary Governance**: Community members with significant recognition can participate in rule development and policy decisions.
 
@@ -93,34 +93,6 @@ description: Community guidelines that support our merit-based governance system
 
 ---
 
-## EULA Compliance Framework
-
-**Our rules operate within Minecraft's EULA requirements** while pioneering community ownership models:
-
-### **No Gameplay Advantages for Purchase**
-- Recognition provides governance rights and cosmetic benefits, never competitive advantages
-- All game content remains equally accessible to all players
-- Merit-based progression ensures fair competition
-
-### **Community-Focused Benefits**
-- Recognition translates to influence over community decisions, not gameplay superiority
-- Governance rights reward contribution to platform development and community welfare
-- Long-term community health takes precedence over individual advancement
-
-### **Transparent Systems**
-- All recognition calculations and governance processes are community-auditable
-- Rule enforcement considers community input and governance participation
-- Appeals process includes community representation and transparent review
-
----
-
-### Minecraft Compliance and References
-
-**Compliance Statement**: No blockchain technology or Tokens are rewarded directly from Minecraft servers or clients. On Minecraft, all recognition is issued as Points via in-game systems. Points may be exchangeable for the Token in the future once available; any such exchange would occur off-server and outside the Minecraft client. The Token is used for governance rights and platform use only.
-
-**References**:
-- [Minecraft EULA](https://www.minecraft.net/eula)
-- [Minecraft Usage Guidelines](https://www.minecraft.net/en-us/usage-guidelines)
 
 ---
 

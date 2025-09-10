@@ -16,9 +16,9 @@ description: Explore SQWARE's Minecraft servers where community ownership and me
 
 **Each server operates as part of our broader community governance experiment**, proving that player-owned platforms can provide:
 
- - **Merit-Based Recognition**: Contribution across all games earns Points (hourly/achievements). Points may be exchangeable for the Token in the future once available. No games distribute tokens directly in-client. Points and Tokens provide real influence over platform decisions.
+ - **Merit-Based Recognition**: Contribution across all games earns Points (hourly/achievements). Points are exchangeable for Tokens, which provide real influence over platform decisions.
 - **Collaborative Development**: Community input shapes server features, rules, and development priorities  
-- **Sustainable Economics**: EULA-compliant systems that reward participation without pay-to-win mechanics
+- **Sustainable Economics**: Systems that reward participation without pay-to-win mechanics
 - **Democratic Governance**: Players vote on server policies, resource allocation, and community standards
 
 ---
@@ -47,15 +47,6 @@ description: Explore SQWARE's Minecraft servers where community ownership and me
 
     [:octicons-arrow-right-24: Explore Classic](classic-survival.md)
 
--   :material-sword-cross:{ .lg .middle } **KitPvP**
-
-    ---
-
-    Action-packed Player vs. Player combat where skill development and community participation contribute to your overall platform recognition and governance power.
-
-    **Community Features**: Competitive merit tracking, community-voted maps and kits, collaborative tournament organization.
-
-    [:octicons-arrow-right-24: Explore KitPvP](kitpvp.md)
 
 -   :material-cloud:{ .lg .middle } **Skyblock**
 
@@ -95,7 +86,6 @@ description: Explore SQWARE's Minecraft servers where community ownership and me
 
 **Classic Contributions**: World development, community building, and collaborative projects increase governance influence.
 
-**KitPvP Contributions**: Skill development, tournament participation, and community organization build recognition.
 
 **Skyblock Contributions**: Achievement milestones, knowledge sharing, and collaborative development input earn Points.
 
@@ -143,20 +133,7 @@ description: Explore SQWARE's Minecraft servers where community ownership and me
 
 **Open Communication**: Regular community meetings and feedback sessions shape platform development priorities.
 
-### **EULA-Compliant Framework**
-**No Pay-to-Win**: Recognition provides governance rights and cosmetic benefits, never competitive advantages.
 
-**Equal Access**: All game content remains accessible to all players regardless of recognition level.
-
-**Community Benefits**: Recognition translates to platform influence, not gameplay superiority.
-
----
-
-### Compliance Note (Minecraft)
-
-No blockchain technology or Tokens are rewarded directly from Minecraft servers or clients. On Minecraft, recognition is awarded as Points only. Any future Point-to-Token exchange would occur off-server and outside the Minecraft client. The Token is used for governance rights and platform use only. See: [Minecraft EULA](https://www.minecraft.net/eula) and [Usage Guidelines](https://www.minecraft.net/en-us/usage-guidelines).
-
----
 
 ## Beyond Gaming
 
@@ -166,7 +143,7 @@ No blockchain technology or Tokens are rewarded directly from Minecraft servers 
 
 **Merit-Based Leadership**: Those who contribute most to platform development and community welfare gain appropriate influence.
 
-**Economic Innovation**: EULA-compliant systems that reward participation and contribution rather than financial investment.
+**Economic Innovation**: Systems that reward participation and contribution rather than financial investment.
 
 **Democratic Development**: Community-driven feature development and policy creation that serves player interests.
 
